@@ -1,5 +1,5 @@
 # Reversible-MNIST-AI-training
-An attempt to make an AI out of reversible logic gates
+An attempt to make an AI out of simulated reversible logic gates
 
 This initial attempt was made with assistance of AI, so there may be bugs.
 
@@ -12,3 +12,4 @@ just run python setup_gpu.py install --user
 then run python train_gpu.py
 
 
+I will soon try to publish an explanation of what exactly I mean by reversible logic gates, as well as my rationale.

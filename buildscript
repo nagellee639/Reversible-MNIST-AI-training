@@ -1,0 +1,4 @@
+rm -rf population_backups_gpu/
+rm champion_chromosome_gpu.npy
+python setup_gpu.py clean --all
+python setup_gpu.py install --user
